@@ -1,0 +1,5 @@
+create or replace view my_vw as
+select 
+id,
+name
+from emp;

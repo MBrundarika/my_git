@@ -1,0 +1,4 @@
+create or replace emp(
+id integer,
+name varchar(12)
+);
